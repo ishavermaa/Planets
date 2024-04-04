@@ -1,0 +1,6 @@
+Initial content
+<<<<<<< HEAD
+Changes in main branch
+=======
+Changes in feature branch
+>>>>>>> feature_branch
